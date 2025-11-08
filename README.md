@@ -1,2 +1,3 @@
-# flutter_material_3
-Flutter Material 3
+# widgets_app
+
+A new Flutter project.
